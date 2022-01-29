@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Infanzon
 - 👀 I’m interested in programming for GIS purposes
 - 🌱 I’m currently learning different languages
-- 💞️ I’m looking to collaborate on anything i can be helpulf of
+- 💞️ I’m looking to collaborate on anything i can be helpful of
 - 📫 How to reach me arqchiri@yahoo.com
 
 <!---
